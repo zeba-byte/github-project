@@ -8,7 +8,7 @@ Index.html
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>Hello, World!</h1>
+    <h1>Hello, World! , welcome to github</h1>
     <p id="message">This is a simple collaborative project.</p>
     <button id="changeMessage">Click Me!</button>
     <script src="script.js"></script>
