@@ -1,19 +1,3 @@
-Index.html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Simple Collaboration</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <h1>Hello, World! , welcome to github</h1>
-    <p id="message">This is a simple collaborative project.</p>
-    <button id="changeMessage">Click Me!</button>
-    <script src="script.js"></script>
-</body>
-</html>
 
 
 Style.css
@@ -44,7 +28,3 @@ button:hover {
 }
 
 
-Script.js
-document.getElementById("changeMessage").addEventListener("click", function() {
-    document.getElementById("message").textContent = "You clicked the button!";
-});
